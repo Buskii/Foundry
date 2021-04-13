@@ -1,7 +1,7 @@
 # Foundry!
 The mod list. You can download (most of) them through the normal foundry mod adder. you can import through here (though you'll need to enable at least Tidy UI)
 
-[image](https://user-images.githubusercontent.com/40343141/114583234-4ce53e00-9c79-11eb-9ca3-6f9ddcb66aef.png)
+![image](https://user-images.githubusercontent.com/40343141/114583234-4ce53e00-9c79-11eb-9ca3-6f9ddcb66aef.png)
 
 Save the JSON file, then right click this bit and import it
 
