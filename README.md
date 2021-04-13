@@ -27,3 +27,4 @@ compendium_import.txt : Copy and paste into the import to make your compendiums 
 
 ![image](https://user-images.githubusercontent.com/40343141/114583359-6be3d000-9c79-11eb-8760-426c60b5c7d9.png)
 
+Viola, what took me hours and hours has taken you at most 15 mins. Kill me
