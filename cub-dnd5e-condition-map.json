@@ -16733,4 +16733,1424 @@
       "isChanged": false
     }
   ]
-}
+} "plutonium.spells",
+          "name": "Primordial Ward"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.l8SJoPBjGO5Hg1X5]",
+          "collection": "plutonium.spells",
+          "name": "Prismatic Spray"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.4SobUTGlKPhnJt5u]",
+          "collection": "plutonium.spells",
+          "name": "Prismatic Wall"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.Idis15y95DHT32lp]",
+          "collection": "plutonium.spells",
+          "name": "Produce Flame"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.6ksdBffGwUFWMH4z]",
+          "collection": "plutonium.spells",
+          "name": "Programmed Illusion"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.84j29T8Luq25yScL]",
+          "collection": "plutonium.spells",
+          "name": "Project Image"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.HN2aEWzpidA76aZq]",
+          "collection": "plutonium.spells",
+          "name": "Protection from Energy"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.oJlxRzT0kPgCKUrP]",
+          "collection": "plutonium.spells",
+          "name": "Protection from Evil and Good"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.RXs79ucuoiOotjkw]",
+          "collection": "plutonium.spells",
+          "name": "Protection from Poison"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.l1dZgtpFgHcmDi78]",
+          "collection": "plutonium.spells",
+          "name": "Psychic Scream"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.qczvlWDaZp03zi8x]",
+          "collection": "plutonium.spells",
+          "name": "Pulse Wave"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.0ZIBj0x5sa89ttJ2]",
+          "collection": "plutonium.spells",
+          "name": "Purify Food and Drink"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.rx2PnmjvJmZHwzOn]",
+          "collection": "plutonium.spells",
+          "name": "Pyrotechnics"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.ju22DXsrdsduVwMI]",
+          "collection": "plutonium.spells",
+          "name": "Raise Dead"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.w4CBYi6SBZcJxxMh]",
+          "collection": "plutonium.spells",
+          "name": "Rary's Telepathic Bond"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.u2gYIZ50qj7xqXK3]",
+          "collection": "plutonium.spells",
+          "name": "Ravenous Void"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.TePCfiBhDoXyUVK9]",
+          "collection": "plutonium.spells",
+          "name": "Ray of Enfeeblement"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.MNazKOVPwNwWemQd]",
+          "collection": "plutonium.spells",
+          "name": "Ray of Frost"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.aIdGc3mtBXOPHSVE]",
+          "collection": "plutonium.spells",
+          "name": "Ray of Sickness"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.fDEnKDQyMDTVPvnD]",
+          "collection": "plutonium.spells",
+          "name": "Reality Break"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.MKVgTSqBgV6AUYRq]",
+          "collection": "plutonium.spells",
+          "name": "Regenerate"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.iDxxdTK97ME44DDx]",
+          "collection": "plutonium.spells",
+          "name": "Reincarnate"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.O25zrzglRdDNLVPx]",
+          "collection": "plutonium.spells",
+          "name": "Remove Curse"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.uN7mFR0XayaiM4ZU]",
+          "collection": "plutonium.spells",
+          "name": "Resistance"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.ikZn1iGAT40fZXGq]",
+          "collection": "plutonium.spells",
+          "name": "Resurrection"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.JphgwS1Whz3Dq5Qo]",
+          "collection": "plutonium.spells",
+          "name": "Reverse Gravity"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.73xGKbWNxo6XvAFN]",
+          "collection": "plutonium.spells",
+          "name": "Revivify"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.9t7gkYFwPqsbHYwn]",
+          "collection": "plutonium.spells",
+          "name": "Rope Trick"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.fZRkY0G9oxYxQcyv]",
+          "collection": "plutonium.spells",
+          "name": "Sacred Flame"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.kG3JumNwEEyQadBg]",
+          "collection": "plutonium.spells",
+          "name": "Sanctuary"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.ct0r6s9u90jwJHCx]",
+          "collection": "plutonium.spells",
+          "name": "Sapping Sting"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.ThJhqldtFlLPNGGT]",
+          "collection": "plutonium.spells",
+          "name": "Scatter"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.KKbO3TdaB6gmPLPZ]",
+          "collection": "plutonium.spells",
+          "name": "Scorching Ray"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.JMfz41Z3Ts5VbcmG]",
+          "collection": "plutonium.spells",
+          "name": "Scrying"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.EIkprbfJTQRjbHO1]",
+          "collection": "plutonium.spells",
+          "name": "Searing Smite"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.T8ISqn5jGlIVdoGR]",
+          "collection": "plutonium.spells",
+          "name": "See Invisibility"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.CA2AZJ7w0N43NvK2]",
+          "collection": "plutonium.spells",
+          "name": "Seeming"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.9VcbfQPaylyJz8gS]",
+          "collection": "plutonium.spells",
+          "name": "Sending"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.gv6KZzydd1GPQyqR]",
+          "collection": "plutonium.spells",
+          "name": "Sequester"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.fK9pcErID5zwWMXk]",
+          "collection": "plutonium.spells",
+          "name": "Shadow Blade"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.qVnEuOc39iLaW9PH]",
+          "collection": "plutonium.spells",
+          "name": "Shadow of Moil"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.gEs5Yh2rED4aAXJ6]",
+          "collection": "plutonium.spells",
+          "name": "Shape Water"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.1dNoFcsNxboo1YQp]",
+          "collection": "plutonium.spells",
+          "name": "Shapechange"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.J4JcwqfVdvwtaBm7]",
+          "collection": "plutonium.spells",
+          "name": "Shatter"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.hrD2FpBMB9lrBdWH]",
+          "collection": "plutonium.spells",
+          "name": "Shield"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.Bc9R6npSGNCJJQCJ]",
+          "collection": "plutonium.spells",
+          "name": "Shield of Faith"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.LuHMJ4lbqza3soaR]",
+          "collection": "plutonium.spells",
+          "name": "Shillelagh"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.GTeQKW7Cgmab7ANv]",
+          "collection": "plutonium.spells",
+          "name": "Shocking Grasp"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.Yjk1JsyizGW9mQm8]",
+          "collection": "plutonium.spells",
+          "name": "Sickening Radiance"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.CteOzH8dyJgi3tPH]",
+          "collection": "plutonium.spells",
+          "name": "Silence"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.G2lBYMXowMws1jBF]",
+          "collection": "plutonium.spells",
+          "name": "Silent Image"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.UWhR1qpgRncAlDSo]",
+          "collection": "plutonium.spells",
+          "name": "Simulacrum"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.RvYfEkpabGyKaLyp]",
+          "collection": "plutonium.spells",
+          "name": "Skill Empowerment"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.DQwjWEd5h4JazM5w]",
+          "collection": "plutonium.spells",
+          "name": "Skywrite"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.Qx5jv7dkD6zlg4LI]",
+          "collection": "plutonium.spells",
+          "name": "Sleep"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.BJ5Kwwd1XCyUba4d]",
+          "collection": "plutonium.spells",
+          "name": "Sleet Storm"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.dRJChhFRlyplhLLg]",
+          "collection": "plutonium.spells",
+          "name": "Slow"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.a5atQfBG8ogRM0On]",
+          "collection": "plutonium.spells",
+          "name": "Snare"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.alkkqOY9XpvEJ1ni]",
+          "collection": "plutonium.spells",
+          "name": "Snilloc's Snowball Swarm"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.ULY11n2apsHBAd4x]",
+          "collection": "plutonium.spells",
+          "name": "Soul Cage"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.zvvykiauLDEfhgIc]",
+          "collection": "plutonium.spells",
+          "name": "Spare the Dying"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.MD8jCYYlKlaiKfKL]",
+          "collection": "plutonium.spells",
+          "name": "Speak with Animals"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.e3b0QZPFXVe4hNPL]",
+          "collection": "plutonium.spells",
+          "name": "Speak with Dead"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.SH6MNo3kporVJyrv]",
+          "collection": "plutonium.spells",
+          "name": "Speak with Plants"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.y7DQDZ3A645DNC60]",
+          "collection": "plutonium.spells",
+          "name": "Spider Climb"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.eK49UToiN5texknd]",
+          "collection": "plutonium.spells",
+          "name": "Spike Growth"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.dHOIceQSxqkP8EHU]",
+          "collection": "plutonium.spells",
+          "name": "Spirit Guardians"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.B0V65iS7R76Whdsw]",
+          "collection": "plutonium.spells",
+          "name": "Spirit Shroud"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.n9aQfK8auTYn1WQW]",
+          "collection": "plutonium.spells",
+          "name": "Spiritual Weapon"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.3aBEIByew52UVJ7E]",
+          "collection": "plutonium.spells",
+          "name": "Staggering Smite"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.gS5G6q3pjC5jj75W]",
+          "collection": "plutonium.spells",
+          "name": "Steel Wind Strike"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.NdHXjDNe0uvWHi9U]",
+          "collection": "plutonium.spells",
+          "name": "Stinking Cloud"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.EzU1jS4WewNOwky8]",
+          "collection": "plutonium.spells",
+          "name": "Stone Shape"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.9dRYDYyda46OOGUZ]",
+          "collection": "plutonium.spells",
+          "name": "Stoneskin"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.n7QsBQxuDLWkn8J3]",
+          "collection": "plutonium.spells",
+          "name": "Storm of Vengeance"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.yq2i4F9QJFZhbcYO]",
+          "collection": "plutonium.spells",
+          "name": "Storm Sphere"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.zTypCk2PS2KNFDOC]",
+          "collection": "plutonium.spells",
+          "name": "Suggestion"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.hih2zqN6V0dNPpuI]",
+          "collection": "plutonium.spells",
+          "name": "Summon Aberration"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.Qf5zcspZQSMN1CvO]",
+          "collection": "plutonium.spells",
+          "name": "Summon Beast"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.8i87UPnvoiu12BpG]",
+          "collection": "plutonium.spells",
+          "name": "Summon Celestial"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.BuyVvTeIn8wmwQlV]",
+          "collection": "plutonium.spells",
+          "name": "Summon Construct"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.mpLZ7eTUHTJCAcdi]",
+          "collection": "plutonium.spells",
+          "name": "Summon Elemental"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.EBfP8O75VFjFWIGB]",
+          "collection": "plutonium.spells",
+          "name": "Summon Fey"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.WpnTWMFUfW2QRNZo]",
+          "collection": "plutonium.spells",
+          "name": "Summon Fiend"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.EcrUBS4fwokue1Wf]",
+          "collection": "plutonium.spells",
+          "name": "Summon Greater Demon"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.hx9VdKiYX7CBY3Ls]",
+          "collection": "plutonium.spells",
+          "name": "Summon Lesser Demons"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.3vw8txhUE2MIjHi4]",
+          "collection": "plutonium.spells",
+          "name": "Summon Shadowspawn"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.VcxGpNAiRH25EP5e]",
+          "collection": "plutonium.spells",
+          "name": "Summon Undead"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.js3So6bIyTfXpjem]",
+          "collection": "plutonium.spells",
+          "name": "Sunbeam"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.JLSpOrObiur7do13]",
+          "collection": "plutonium.spells",
+          "name": "Sunburst"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.bewfrRllXYdsZTjX]",
+          "collection": "plutonium.spells",
+          "name": "Swift Quiver"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.4R4kvAUBkoL0sulZ]",
+          "collection": "plutonium.spells",
+          "name": "Sword Burst"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.VweSldDNkNgQgHFO]",
+          "collection": "plutonium.spells",
+          "name": "Symbol"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.1iek8E153w0phgRf]",
+          "collection": "plutonium.spells",
+          "name": "Synaptic Static"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.9DYhnwsLEGMksIRZ]",
+          "collection": "plutonium.spells",
+          "name": "Tasha's Caustic Brew"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.i5kImLXa3JlAsizd]",
+          "collection": "plutonium.spells",
+          "name": "Tasha's Hideous Laughter"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.6602GyJb7Ixsg6pi]",
+          "collection": "plutonium.spells",
+          "name": "Tasha's Mind Whip"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.0gHaP2FP3j0aDt67]",
+          "collection": "plutonium.spells",
+          "name": "Tasha's Otherworldly Guise"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.8G2nTYwgqZDhQdXI]",
+          "collection": "plutonium.spells",
+          "name": "Telekinesis"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.f93VFFEl93mkNBKR]",
+          "collection": "plutonium.spells",
+          "name": "Telepathy"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.1YRE5jN3Ra0cEh6E]",
+          "collection": "plutonium.spells",
+          "name": "Teleport"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.7KWzvgdVbRUSrFE7]",
+          "collection": "plutonium.spells",
+          "name": "Teleportation Circle"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.LSpuW7Wk5yU7lTWn]",
+          "collection": "plutonium.spells",
+          "name": "Temple of the Gods"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.VJqBP71HaWtnGNU9]",
+          "collection": "plutonium.spells",
+          "name": "Temporal Shunt"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.QrGmc3oPCABVoJUS]",
+          "collection": "plutonium.spells",
+          "name": "Tenser's Floating Disk"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.bohDhMaCqQbQzw9w]",
+          "collection": "plutonium.spells",
+          "name": "Tenser's Transformation"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.Jgsl2ba6McW92Djj]",
+          "collection": "plutonium.spells",
+          "name": "Tether Essence"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.6f9hbMoFT2PmByah]",
+          "collection": "plutonium.spells",
+          "name": "Thaumaturgy"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.vaPkGkrc0ILgPiDg]",
+          "collection": "plutonium.spells",
+          "name": "Thorn Whip"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.OQvEaTbYKvwvtmOc]",
+          "collection": "plutonium.spells",
+          "name": "Thunder Step"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.YYaHQjMBAQwP5FXc]",
+          "collection": "plutonium.spells",
+          "name": "Thunderclap"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.DpBb5vnnUo9QgULb]",
+          "collection": "plutonium.spells",
+          "name": "Thunderous Smite"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.ih3dvIpVpo6wNODW]",
+          "collection": "plutonium.spells",
+          "name": "Thunderwave"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.hpFPVyVOEMV2IIVe]",
+          "collection": "plutonium.spells",
+          "name": "Tidal Wave"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.XdytgnYcHsmVneNs]",
+          "collection": "plutonium.spells",
+          "name": "Time Ravage"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.FdfJmkAbh6qStL49]",
+          "collection": "plutonium.spells",
+          "name": "Time Stop"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.gRoTgXWgZ774aAyB]",
+          "collection": "plutonium.spells",
+          "name": "Tiny Servant"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.trm2Maonynamse4c]",
+          "collection": "plutonium.spells",
+          "name": "Toll the Dead"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.P73YsI2H7YLoeRZ2]",
+          "collection": "plutonium.spells",
+          "name": "Tongues"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.BTRu71Uqx9y3MnxR]",
+          "collection": "plutonium.spells",
+          "name": "Transmute Rock"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.bhwafIsWjJlApnPi]",
+          "collection": "plutonium.spells",
+          "name": "Transport via Plants"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.vIUbL11WY9q151hb]",
+          "collection": "plutonium.spells",
+          "name": "Tree Stride"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.YqtbLpVY2s15gfgv]",
+          "collection": "plutonium.spells",
+          "name": "True Polymorph"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.XHwvZbjdRdH0VuQD]",
+          "collection": "plutonium.spells",
+          "name": "True Resurrection"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.eCLF7GnwahODVD5m]",
+          "collection": "plutonium.spells",
+          "name": "True Seeing"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.YbpKZMaxVXwklOW3]",
+          "collection": "plutonium.spells",
+          "name": "True Strike"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.AyVDGd8xdf6gvX3S]",
+          "collection": "plutonium.spells",
+          "name": "Tsunami"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.Nih5UCkM0x9wXOxX]",
+          "collection": "plutonium.spells",
+          "name": "Unseen Servant"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.VGJBhBfPByQHaY0Q]",
+          "collection": "plutonium.spells",
+          "name": "Vampiric Touch"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.tpg6WWvcm9fhjnzN]",
+          "collection": "plutonium.spells",
+          "name": "Vicious Mockery"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.dPkiaiEVQTxL4XCu]",
+          "collection": "plutonium.spells",
+          "name": "Vitriolic Sphere"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.Ke3x4Hsl1Nbp8V7t]",
+          "collection": "plutonium.spells",
+          "name": "Wall of Fire"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.6hKXxLRJdyAGB2CA]",
+          "collection": "plutonium.spells",
+          "name": "Wall of Force"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.w1ghP0DYGmWT1s69]",
+          "collection": "plutonium.spells",
+          "name": "Wall of Ice"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.l4DAar95PnmHf1Pj]",
+          "collection": "plutonium.spells",
+          "name": "Wall of Light"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.Vz5ChbbA8ECQwBXs]",
+          "collection": "plutonium.spells",
+          "name": "Wall of Sand"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.4RtyaWc0etpz4jK5]",
+          "collection": "plutonium.spells",
+          "name": "Wall of Stone"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.vMtmh1CIkirTDwSj]",
+          "collection": "plutonium.spells",
+          "name": "Wall of Thorns"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.UPyPjzHMYZwgG2oy]",
+          "collection": "plutonium.spells",
+          "name": "Wall of Water"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.OfwzsFG9hdAMX8OE]",
+          "collection": "plutonium.spells",
+          "name": "Warding Bond"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.KBOcfvtGy8zK6x8c]",
+          "collection": "plutonium.spells",
+          "name": "Warding Wind"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.T6J61CRh28XyB9PO]",
+          "collection": "plutonium.spells",
+          "name": "Water Breathing"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.IlhnmQdfVcq2j8jv]",
+          "collection": "plutonium.spells",
+          "name": "Water Walk"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.2yW53Pg3HggiKJ8Q]",
+          "collection": "plutonium.spells",
+          "name": "Watery Sphere"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.8ZR3x7dIvqwtDvvy]",
+          "collection": "plutonium.spells",
+          "name": "Web"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.isleRZWS5MQavVsz]",
+          "collection": "plutonium.spells",
+          "name": "Weird"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.ZeQMMysxoun2eGt7]",
+          "collection": "plutonium.spells",
+          "name": "Whirlwind"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.GfxerX5IWqaxQyvc]",
+          "collection": "plutonium.spells",
+          "name": "Wind Walk"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.cr8GdKbulT8AhO8c]",
+          "collection": "plutonium.spells",
+          "name": "Wind Wall"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.kJLT7flLvSWmBfIe]",
+          "collection": "plutonium.spells",
+          "name": "Wish"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.VeW6Fq0iP4BJuirU]",
+          "collection": "plutonium.spells",
+          "name": "Witch Bolt"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.eOavQSzH4aIVYEsK]",
+          "collection": "plutonium.spells",
+          "name": "Word of Radiance"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.pyA6wED0E2HURl9y]",
+          "collection": "plutonium.spells",
+          "name": "Word of Recall"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.0WSUJgRqR1QS3mmh]",
+          "collection": "plutonium.spells",
+          "name": "Wrath of Nature"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.BIZ2iPkz9ymDRpbN]",
+          "collection": "plutonium.spells",
+          "name": "Wrathful Smite"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.cSVtiHaWybly65zB]",
+          "collection": "plutonium.spells",
+          "name": "Wristpocket"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.YyJQP5RhIshVdhhL]",
+          "collection": "plutonium.spells",
+          "name": "Zephyr Strike"
+        },
+        {
+          "id": "@Compendium[plutonium.spells.JXjE7VspDnGMxfaH]",
+          "collection": "plutonium.spells",
+          "name": "Zone of Truth"
+        }
+      ],
+      "isChanged": false
+    },
+    {
+      "id": "hexblade's-curse",
+      "name": "Hexblade's Curse",
+      "icon": "systems/dnd5e/icons/spells/enchant-eerie-2.jpg",
+      "referenceType": "compendium.item",
+      "compendium": "dnd5e.classfeatures",
+      "referenceId": "",
+      "applyTrigger": "",
+      "removeTrigger": "",
+      "activeEffect": null,
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "outputChat": true,
+        "markDefeated": false
+      },
+      "isNew": false,
+      "referenceTypeIcon": "fas fa-suitcase",
+      "isCompendiumReference": true,
+      "isItemCompendium": true,
+      "compendiumEntries": [
+        {
+          "id": "@Compendium[dnd5e.classfeatures.s0Cc2zcX0JzIgam5]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Ability Score Improvement"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.sPy2OLoN7JaAcMl4]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Ability Score Improvement (Fighter)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.v7MxFuTAgOsmxZCD]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Ability Score Improvement (Rogue)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.xF1VTcJ3AdkbTsdQ]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Action Surge"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.kYJsED0rqqqUcgKz]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Additional Fighting Style"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.myBu3zi5eYvQIcuy]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Additional Magical Secrets"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.e0uTcFPpgxjIyUW9]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Arcane Recovery"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.AEWr9EMxy5gj4ZFT]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Arcane Tradition"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.ip4bvmGoz3qkoqes]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Archdruid"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.nahSkBO6LH4HkpaT]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Aura of Courage"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.M2DxVsgLeZgXOznT]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Aura of Devotion"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.carGDhkIdoduTC0I]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Aura of Protection"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.ILhzFHiRrqgQ9dFJ]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Bard College"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.hpLNiGq7y67d2EHA]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Bardic Inspiration"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.xvgPu1O57DgXCM86]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Beast Spells"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.yv49QN6Bzqs0ecCs]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Blessed Healer"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.fjsBk7zxoAbLf8ZI]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Blindsense"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.lT8GsPOPgRzDC3QJ]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Bonus Cantrip (Druid)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.e9ytGikyLFgwZ5wi]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Bonus Proficiencies (College of Lore)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.68bYIOvx6rIqnlOW]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Bonus Proficiency (Life Domain)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.L94gyvNpUhUe0rwh]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Brutal Critical"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.YpiLQEKGalROn7iJ]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Channel Divinity (Cleric)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.8M7uOPhbTxoxxJSo]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Channel Divinity (Paladin)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.hEymt45rICi4f9eL]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Channel Divinity: Preserve Life"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.xNN0JMKqlG4hKVYu]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Channel Divinity: Sacred Weapon"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.ZdwGlsJNtc7pGFCd]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Channel Divinity: Turn the Unholy"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.r91UIgwFdHwkXdia]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Channel Divinity: Turn Undead"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.YiK59gWSlcQ6Mbdz]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Circle Spells"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.U7BIPVPsptBmwsnV]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Cleansing Touch"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.SEJmsjkEhdAZ90ki]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Countercharm"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.01pcLg6PRu5zGrsb]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Cunning Action"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.5zPmHPQUne7RDfaU]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Cutting Words"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.vt31lWAULygEl7yk]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Danger Sense"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.Jv0zu4BtUi8bFCqJ]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Dark One's Blessing"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.OQSb0bO1yDI4aiMx]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Dark One's Own Luck"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.WgQrqjmeyMqDzVt3]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Defensive Tactics"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.pAQMJU5R9SGUmzHU]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Defensive Tactics: Escape the Horde"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.slelvrm83v9UAKZU]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Defensive Tactics: Multiattack Defense"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.zbHu0NvHuII8lR7W]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Defensive Tactics: Steel Will"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.mzweVbnsJPQiVkAe]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Deflect Missiles"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.NMy4piwXIpLjYbRE]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Destroy Undead"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.jF8AFfEMICIJnAkR]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Disciple of Life"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.x637K2Icp2ZFM1TB]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Divine Domain"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.dY9yrqkyEDuF0CG2]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Divine Health"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.eVXqHn0ojWrEuYGU]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Divine Intervention"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.E8ozg8avUVOX9N7u]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Divine Sense"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.ySMPQ6zNSlvkrl2f]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Divine Smite"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.T6u5z8ZTX6UftXqE]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Divine Strike"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.Gsha4bl0apxqspFy]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Draconic Presence"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.MW1ExvBLm8Hg82aA]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Draconic Resilience"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.EZsonMThTNLZq35j]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Dragon Ancestor"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.3647zjKSE9zFwOXc]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Dragon Wings"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.u6Du2P9s81SWuGbi]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Druid Circle"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.LzJ5ayHt0OlSVGxi]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Druidic"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.8MlxM2nEfE3Q0EVk]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Eldritch Invocations"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.0C04rwyvoknvFYiy]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Eldritch Master"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.x6eEZ9GUsuOcEa3G]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Elemental Affinity"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.L7nJSRosos8sHJH9]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Elusive"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.7O85kj6uDEG5NzUE]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Empowered Evocation"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.a4P4DNMmH8CqSNkC]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Evasion"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.7uzJ2JkmsdRGLra3]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Evocation Savant"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.4IHsIcBhAVDt8QjY]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Expanded Spell List"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.aQLg7BWdRnm4Hr9S]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Expertise (Bard)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.3sYPftQKnbbVnHrh]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Expertise (Rogue)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.XogoBnFWmCAHXppo]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Extra Attack"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.q9g1MLXuLZyxjQMg]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Extra Attack (Fighter)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.ga3dt2zrCn2MHK8R]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Fast Hands"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.Kl6zifJ5OmdHlOi2]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Fast Movement"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.4Vpj9vCOB37GtXk6]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Favored Enemy"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.NlXslw4yAqmKZWtN]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Feral Instinct"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.QBVmY56RMQuh6C8h]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Feral Senses"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.9UZ2WjUF2k58CQug]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Fiendish Resilience"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.fbExzwNwEAl2kW9c]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Fighting Style"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.8YwPFv3UAPjWVDNf]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Fighting Style: Archery"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.zSlV0O2rQMdoq6pB]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Fighting Style: Defense"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.hCop9uJrWhF1QPb4]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Fighting Style: Dueling"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.3Nc6u9pyStByuJsm]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Fighting Style: Great Weapon Fighting"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.06NVMYf58Z76O85O]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Fighting Style: Protection"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.mHcSjcHJ8oZu3hkb]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Fighting Style: Two Weapon Fighting"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.3CaP1vFHVR8LgHjx]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Foe Slayer"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.3VDZGs5Ug3hIE322]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Font of Inspiration"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.LBKChJY5n02Afhnq]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Font of Magic"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.CkbbAckeCtyHXEnL]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Frenzy"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.Dop1RcU5UdhSVLYS]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Grappler"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.r0unvWK0lPsDthDx]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Hide in Plain Sight"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.ANE5gjojvhNEagzz]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Holy Nimbus"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.wrxIW5sDfmGr3u5s]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Hunter's Prey"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.5gx1O0sxK08awEO9]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Hunter's Prey: Colossus Slayer"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.StfmqK1twVfukpa0]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Hunter's Prey: Giant Killer"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.C6sHdDGmCMo0cYHd]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Hunter's Prey: Horde Breaker"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.aCUmlnHlUPHS0rdu]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Hurl Through Hell"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.YgLQV1O849wE5TgM]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Improved Critical"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.FAk41RPCTcvCk6KI]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Improved Divine Smite"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.653ZHbNcmm7ZGXbw]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Indomitable"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.Q1exex5ALteprrPo]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Indomitable Might"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.M6VSMzVtKPhh8B0i]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Intimidating Presence"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.2fyuw7MiCnocDeAU]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Agonizing Blast"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.alUqO6c6OEKFQJdb]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Armor of Shadows"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.QEuH5TeBN4PPYT2g]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Ascendant Step"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.61kXR1sniXHjvN17]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Beast Speech"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.eNvpIaSnJUdF8fHl]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Beguiling Influence"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.KygHql3cTj4IRrvZ]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Bewitching Whispers"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.CFIYXDmbmSP8BXjN]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Book of Ancient Secrets"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.Phy02H5x0TKHd7T3]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Chains of Carceri"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.3sN91lT1R3oxcDKd]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Devil's Sight"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.QBk1RsuTIEF4GEBC]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Dreadful Word"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.bbUEsCPTLzbbwK6o]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Eldritch Sight"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.r01WtcxTg4yTHm9m]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Eldritch Spear"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.lEZKbWaVrSljRa9n]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Eyes of the Rune Keeper"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.id0gmGvzNZBEdzbx]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Fiendish Vigor"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.65ReXU4ZWqcSs3Cm]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Gaze of Two Minds"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.zUIAzBnyt0NDvVXb]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Life Drinker"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.MhJfdBl1B7PdU4oZ]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Mask of Many Faces"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.lxfdjLer3uKjyZqU]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Master of Myriad Forms"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.QnRKYXb2bXpnNd2k]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Minions of Chaos"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.DjXi0IkCTbJx1gsp]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Mire the Mind"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.k5DU0mMuYVHejiqz]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Misty Visions"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.KfnUyjUWAk0bAAus]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: One With Shadows"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.8zciiglzEOZo7DDN]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Otherwordly Leap"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.rdBPd6CwqXT64iJM]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Repelling Blast"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.Xa2MLUJGCReJ28B7]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Sculptor of Flesh"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.dTSV0xZMpY5CxkRk]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Sign of Ill Ome
