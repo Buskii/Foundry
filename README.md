@@ -1,6 +1,8 @@
 # Foundry!
 
 <h1>Read the journal in the shared data </h1>
+Tl:dr: Download it all. Add the SharedData to modules, export the Assets under there. Download all the mods. Enable TidyUI. Import active modlist. Import Foundry Settings. Import CUB settings. Import Folder structure. Enjoy.
+
 <h2>The individual mod pages also have everything you need to know tbh</h2>
 
 SharedData.rar : Unzip the SharedData.rar to C:\Users\YOURACCOUNT\AppData\Local\FoundryVTT\Data\modules
