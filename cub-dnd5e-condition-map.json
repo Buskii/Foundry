@@ -15532,6 +15532,1860 @@
       "referenceId": "@Compendium[dnd5e.classfeatures.TDglPcxIVEzvVSgK]",
       "applyTrigger": "",
       "removeTrigger": "",
+      "activeEffect": {
+        "label": "PD",
+        "icon": "systems/dnd5e/icons/skills/blue_18.jpg",
+        "tint": "",
+        "disabled": false,
+        "duration": {
+          "seconds": null,
+          "startTime": null,
+          "rounds": null,
+          "turns": null,
+          "startRound": null,
+          "startTurn": null
+        },
+        "changes": [
+          {
+            "key": "flags.midi-qol.grants.disadvantage.attack.all",
+            "mode": 2,
+            "value": 1
+          },
+          {
+            "key": "flags.midi-qol.advantage.ability.save.dex",
+            "mode": 2,
+            "value": 1
+          }
+        ]
+      },
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "outputChat": true,
+        "markDefeated": false
+      },
+      "isNew": false,
+      "referenceTypeIcon": "fas fa-suitcase",
+      "isCompendiumReference": true,
+      "isItemCompendium": true,
+      "compendiumEntries": [
+        {
+          "id": "@Compendium[dnd5e.classfeatures.s0Cc2zcX0JzIgam5]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Ability Score Improvement"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.sPy2OLoN7JaAcMl4]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Ability Score Improvement (Fighter)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.v7MxFuTAgOsmxZCD]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Ability Score Improvement (Rogue)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.xF1VTcJ3AdkbTsdQ]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Action Surge"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.kYJsED0rqqqUcgKz]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Additional Fighting Style"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.myBu3zi5eYvQIcuy]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Additional Magical Secrets"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.e0uTcFPpgxjIyUW9]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Arcane Recovery"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.AEWr9EMxy5gj4ZFT]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Arcane Tradition"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.ip4bvmGoz3qkoqes]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Archdruid"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.nahSkBO6LH4HkpaT]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Aura of Courage"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.M2DxVsgLeZgXOznT]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Aura of Devotion"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.carGDhkIdoduTC0I]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Aura of Protection"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.ILhzFHiRrqgQ9dFJ]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Bard College"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.hpLNiGq7y67d2EHA]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Bardic Inspiration"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.xvgPu1O57DgXCM86]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Beast Spells"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.yv49QN6Bzqs0ecCs]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Blessed Healer"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.fjsBk7zxoAbLf8ZI]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Blindsense"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.lT8GsPOPgRzDC3QJ]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Bonus Cantrip (Druid)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.e9ytGikyLFgwZ5wi]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Bonus Proficiencies (College of Lore)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.68bYIOvx6rIqnlOW]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Bonus Proficiency (Life Domain)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.L94gyvNpUhUe0rwh]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Brutal Critical"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.YpiLQEKGalROn7iJ]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Channel Divinity (Cleric)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.8M7uOPhbTxoxxJSo]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Channel Divinity (Paladin)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.hEymt45rICi4f9eL]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Channel Divinity: Preserve Life"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.xNN0JMKqlG4hKVYu]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Channel Divinity: Sacred Weapon"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.ZdwGlsJNtc7pGFCd]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Channel Divinity: Turn the Unholy"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.r91UIgwFdHwkXdia]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Channel Divinity: Turn Undead"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.YiK59gWSlcQ6Mbdz]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Circle Spells"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.U7BIPVPsptBmwsnV]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Cleansing Touch"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.SEJmsjkEhdAZ90ki]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Countercharm"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.01pcLg6PRu5zGrsb]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Cunning Action"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.5zPmHPQUne7RDfaU]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Cutting Words"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.vt31lWAULygEl7yk]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Danger Sense"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.Jv0zu4BtUi8bFCqJ]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Dark One's Blessing"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.OQSb0bO1yDI4aiMx]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Dark One's Own Luck"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.WgQrqjmeyMqDzVt3]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Defensive Tactics"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.pAQMJU5R9SGUmzHU]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Defensive Tactics: Escape the Horde"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.slelvrm83v9UAKZU]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Defensive Tactics: Multiattack Defense"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.zbHu0NvHuII8lR7W]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Defensive Tactics: Steel Will"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.mzweVbnsJPQiVkAe]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Deflect Missiles"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.NMy4piwXIpLjYbRE]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Destroy Undead"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.jF8AFfEMICIJnAkR]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Disciple of Life"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.x637K2Icp2ZFM1TB]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Divine Domain"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.dY9yrqkyEDuF0CG2]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Divine Health"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.eVXqHn0ojWrEuYGU]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Divine Intervention"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.E8ozg8avUVOX9N7u]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Divine Sense"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.ySMPQ6zNSlvkrl2f]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Divine Smite"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.T6u5z8ZTX6UftXqE]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Divine Strike"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.Gsha4bl0apxqspFy]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Draconic Presence"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.MW1ExvBLm8Hg82aA]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Draconic Resilience"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.EZsonMThTNLZq35j]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Dragon Ancestor"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.3647zjKSE9zFwOXc]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Dragon Wings"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.u6Du2P9s81SWuGbi]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Druid Circle"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.LzJ5ayHt0OlSVGxi]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Druidic"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.8MlxM2nEfE3Q0EVk]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Eldritch Invocations"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.0C04rwyvoknvFYiy]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Eldritch Master"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.x6eEZ9GUsuOcEa3G]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Elemental Affinity"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.L7nJSRosos8sHJH9]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Elusive"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.7O85kj6uDEG5NzUE]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Empowered Evocation"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.a4P4DNMmH8CqSNkC]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Evasion"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.7uzJ2JkmsdRGLra3]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Evocation Savant"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.4IHsIcBhAVDt8QjY]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Expanded Spell List"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.aQLg7BWdRnm4Hr9S]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Expertise (Bard)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.3sYPftQKnbbVnHrh]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Expertise (Rogue)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.XogoBnFWmCAHXppo]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Extra Attack"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.q9g1MLXuLZyxjQMg]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Extra Attack (Fighter)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.ga3dt2zrCn2MHK8R]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Fast Hands"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.Kl6zifJ5OmdHlOi2]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Fast Movement"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.4Vpj9vCOB37GtXk6]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Favored Enemy"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.NlXslw4yAqmKZWtN]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Feral Instinct"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.QBVmY56RMQuh6C8h]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Feral Senses"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.9UZ2WjUF2k58CQug]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Fiendish Resilience"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.fbExzwNwEAl2kW9c]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Fighting Style"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.8YwPFv3UAPjWVDNf]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Fighting Style: Archery"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.zSlV0O2rQMdoq6pB]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Fighting Style: Defense"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.hCop9uJrWhF1QPb4]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Fighting Style: Dueling"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.3Nc6u9pyStByuJsm]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Fighting Style: Great Weapon Fighting"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.06NVMYf58Z76O85O]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Fighting Style: Protection"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.mHcSjcHJ8oZu3hkb]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Fighting Style: Two Weapon Fighting"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.3CaP1vFHVR8LgHjx]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Foe Slayer"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.3VDZGs5Ug3hIE322]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Font of Inspiration"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.LBKChJY5n02Afhnq]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Font of Magic"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.CkbbAckeCtyHXEnL]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Frenzy"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.Dop1RcU5UdhSVLYS]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Grappler"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.r0unvWK0lPsDthDx]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Hide in Plain Sight"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.ANE5gjojvhNEagzz]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Holy Nimbus"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.wrxIW5sDfmGr3u5s]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Hunter's Prey"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.5gx1O0sxK08awEO9]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Hunter's Prey: Colossus Slayer"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.StfmqK1twVfukpa0]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Hunter's Prey: Giant Killer"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.C6sHdDGmCMo0cYHd]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Hunter's Prey: Horde Breaker"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.aCUmlnHlUPHS0rdu]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Hurl Through Hell"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.YgLQV1O849wE5TgM]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Improved Critical"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.FAk41RPCTcvCk6KI]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Improved Divine Smite"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.653ZHbNcmm7ZGXbw]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Indomitable"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.Q1exex5ALteprrPo]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Indomitable Might"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.M6VSMzVtKPhh8B0i]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Intimidating Presence"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.2fyuw7MiCnocDeAU]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Agonizing Blast"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.alUqO6c6OEKFQJdb]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Armor of Shadows"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.QEuH5TeBN4PPYT2g]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Ascendant Step"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.61kXR1sniXHjvN17]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Beast Speech"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.eNvpIaSnJUdF8fHl]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Beguiling Influence"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.KygHql3cTj4IRrvZ]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Bewitching Whispers"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.CFIYXDmbmSP8BXjN]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Book of Ancient Secrets"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.Phy02H5x0TKHd7T3]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Chains of Carceri"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.3sN91lT1R3oxcDKd]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Devil's Sight"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.QBk1RsuTIEF4GEBC]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Dreadful Word"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.bbUEsCPTLzbbwK6o]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Eldritch Sight"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.r01WtcxTg4yTHm9m]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Eldritch Spear"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.lEZKbWaVrSljRa9n]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Eyes of the Rune Keeper"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.id0gmGvzNZBEdzbx]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Fiendish Vigor"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.65ReXU4ZWqcSs3Cm]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Gaze of Two Minds"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.zUIAzBnyt0NDvVXb]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Life Drinker"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.MhJfdBl1B7PdU4oZ]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Mask of Many Faces"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.lxfdjLer3uKjyZqU]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Master of Myriad Forms"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.QnRKYXb2bXpnNd2k]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Minions of Chaos"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.DjXi0IkCTbJx1gsp]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Mire the Mind"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.k5DU0mMuYVHejiqz]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Misty Visions"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.KfnUyjUWAk0bAAus]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: One With Shadows"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.8zciiglzEOZo7DDN]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Otherwordly Leap"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.rdBPd6CwqXT64iJM]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Repelling Blast"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.Xa2MLUJGCReJ28B7]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Sculptor of Flesh"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.dTSV0xZMpY5CxkRk]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Sign of Ill Omen"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.rhbwDZ9XNTmdkX2u]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Thief of Five Fates"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.pJADgAxxefgcATWr]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Thirsting Blade"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.zYIdNAjqRyhS6qWs]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Visions of Distant Realms"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.k5M8gsl7MMcdjOjs]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Voice of the Chain Master"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.gFjxo01hAN4c9hDG]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Whispers of the Grave"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.snsjxGfmzWfZR5Nh]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Invocation: Witch Sight"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.ezWijmCnlnQ9ZRX2]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Jack of All Trades"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.10b6z2W1txNkrGP7]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Ki"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.7flZKruSSu6dHg6D]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Ki-Empowered Strikes"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.7D2EkLdISwShEDlN]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Ki: Diamond Soul"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.3jwFt3hSqDswBlOH]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Ki: Empty Body"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.5MwNlVZK7m6VolOH]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Ki: Flurry of Blows"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.TDglPcxIVEzvVSgK]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Ki: Patient Defense"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.h1gM8SH3BNRtFevE]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Ki: Quivering Palm"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.yrSFIGTaQOH2PFRI]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Ki: Step of the Wind"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.pvRc6GAu1ok6zihC]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Ki: Stunning Strike"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.3FB25qKxmkmxcxuC]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Land's Stride (Circle of the Land)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.C5fzaOBc6HxyOWRn]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Land's Stride (Ranger)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.OdrvL3afwLOPeuYZ]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Lay on Hands"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.aonJ2YjkqkYB9WYB]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Magical Secrets"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.ax8M0X0q1GGWM26j]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Martial Archetype"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.l50hjTxO2r0iecKw]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Martial Arts"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.9Uh7uTDNZ04oTJsL]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Metamagic"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.zElYrOcCFFMhB6Xl]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Metamagic: Careful Spell"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.DZpAa3LzMNBexbmX]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Metamagic: Distant Spell"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.IWpe0Y9uAStHGiH1]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Metamagic: Empowered Spell"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.tQxlKyAx9sgPrbgj]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Metamagic: Extended Spell"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.tNG2qi9zhmXEkecA]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Metamagic: Heightened Spell"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.nViGf6bZ6DQAJhkw]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Metamagic: Quickened Spell"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.fXa0DMhoVLtbBu9l]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Metamagic: Subtle Spell"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.Qb391hakCfmH4w8p]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Metamagic: Twinned Spell"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.0Jgf8fYY2ExwgQpN]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Mindless Rage"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.rtpQdX77dYWbDIOH]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Monastic Tradition"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.7zlTRRXT1vWSBGjX]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Multiattack"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.l7W6JB9yWLLLtQKP]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Multiattack: Volley"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.1DY8w3CXeD7PHDXF]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Multiattack: Whirlwind Attack"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.zB77V8BcCJvWVxck]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Mystic Arcanum (6th-Level Spell)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.HBn6FXLz7Eiudz0V]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Mystic Arcanum (7th-Level Spell)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.knDZR4l4QfLTKinm]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Mystic Arcanum (8th-Level Spell)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.vMxJQEKeK6WwZFaF]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Mystic Arcanum (9th-Level Spell)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.8fbZt2Qh7ZttwIan]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Natural Explorer"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.wKdRtFsvGfMKQHLY]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Natural Recovery"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.EuX1kJNIw1F68yus]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Nature's Sanctuary"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.OTvrJSJSUgAwXrWX]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Nature's Ward"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.iQxLNydNLlCHNKbp]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Open Hand Technique"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.jTXHaK0vvT5DV3uO]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Otherworldly Patron"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.VUtSLeCzFubGXmGx]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Overchannel"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.QwgfIpCN8VWfoUtX]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Pact Boon"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.x6IJZwr6f0SGral7]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Pact Magic"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.9dSSa68mIPoX2ezA]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Pact of the Blade"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.Ic1CSjvbWKudVUv9]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Pact of the Chain"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.MYM908WLZ1lVvA1u]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Pact of the Tome"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.pquwueEMweRhiWaq]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Peerless Skill"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.mQNPg89YIs7g5tG4]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Perfect Self"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.l8tUhZ5Pecm9wz7I]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Persistent Rage"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.evEWCpE5MYgr5RRW]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Potent Cantrip"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.jVU4AgqfrFaqgXns]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Primal Champion"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.TH1QAf6YNGSeBVjT]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Primal Path"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.kaHcUGiwi8AtfZIm]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Primeval Awareness"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.bqWA7t9pDELbNRkp]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Purity of Body"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.ZHJyYrqMYSLub4RY]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Purity of Spirit"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.VoR0SUrNX5EJVPIO]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Rage"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.1dJHU48yNqn3lcfx]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Ranger Archetype"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.SCVjqRdlZ9cvHVSR]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Reckless Attack"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.FqfmbPgxiyrWzhYk]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Relentless Rage"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.YN9xm6MCvse4Y60u]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Reliable Talent"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.dHu1yzIjD38BvGGd]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Remarkable Athlete"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.xzD9zlRP6dUxCtCl]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Retaliation"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.80USV8ZFPIahpLd0]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Roguish Archetype"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.olAqNsUTIef9x8xC]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Sacred Oath"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.6VBXkjjBgjSpNElh]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Sculpt Spells"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.nTjmWbyHweXuIqwc]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Second Wind"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.FGrbXs6Ku5qxFK5G]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Second-Story Work"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.nUrZDi6QN1YjwAr6]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Signature Spells (First Spell)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.31bKbWe9ZGVLEns6]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Signature Spells (Second Spell)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.V4pwFxlwHtNeB4w9]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Slippery Mind"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.KQz9bqxVkXjDl8gK]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Slow Fall"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.DPN2Gfk8yi1Z5wp7]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Sneak Attack"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.he8RpPXwSl2lVSIk]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Song of Rest"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.cmRCL9T9UgRYOj1c]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Sorcerous Origins"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.F2lEKSmOY0NUruzY]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Sorcerous Restoration"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.JfFfHTeIszx1hNRx]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Spell Mastery"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.u4NLajXETJhJU31v]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Spellcasting (Bard)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.v4gKwLhAq9vuqza7]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Spellcasting (Cleric)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.i6tPm3FNK13Ftc9v]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Spellcasting (Druid)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.ihoQHsmVZlyDbPhX]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Spellcasting (Paladin)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.u6xV3Ki3TXRrD7zg]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Spellcasting (Ranger)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.oygRF3ZjTv2T7z0Y]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Spellcasting (Sorcerer)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.gbNo5eVPaqr8IVKL]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Spellcasting (Wizard)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.ZmC31XKS4YNENnoc]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Stillness of Mind"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.rQhWDaMHMn7iU4f2]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Stroke of Luck"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.aVKH6TLn1AG9hPSA]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Superior Critical"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.a0Sq88dgnREcIMfl]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Superior Hunter's Defense"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.laVHAIOKIsUeezWd]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Superior Hunter's Defense: Evasion"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.Xf763cJoDHPPWSGG]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Superior Hunter's Defense: Stand Against the Tide"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.7pyZjz5vlUWV01qQ]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Superior Hunter's Defense: Uncanny Dodge"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.GBYN5rH4nh1ocRlY]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Superior Inspiration"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.4UOgxzr83vFuUash]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Supreme Healing"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.Ei1Oh4UAA2E30jcD]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Supreme Sneak"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.ipG5yx1tRNmeJfSH]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Survivor"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.LhRm1EeUMvp2EWhV]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Thief's Reflexes"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.ohwfuwnvuoBWlSQr]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Thieves' Cant"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.cVDEQo0ow1WJT7Wl]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Timeless Body (Druid)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.gDH8PMrKvLHaNmEI]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Timeless Body (Monk)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.XjuGBeB8Y0C3A5D4]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Tongue of the Sun and Moon"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.rBDZLatuoolT2FUW]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Tranquility"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.SZbsNbaxFFGwBpNK]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Unarmored Defense (Barbarian)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.UAvV7N7T4zJhxdfI]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Unarmored Defense (Monk)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.7vSrGc0MP5Vzm9Ac]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Unarmored Movement"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.zCeqyQ8uIPNdYJSW]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Unarmored Movement (Monk)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.Mm64SKAHJWYecgXS]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Uncanny Dodge"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.NqWyHE7Rpw9lyKWu]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Use Magic Device"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.DhU2dWCNnX78TstR]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Vanish"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.Q7mOdk4b1lgjcptF]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Wholeness of Body"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.swK0r5TOIxredxWS]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Wild Shape"
+        }
+      ],
+      "isChanged": false
+    },
+    {
+      "id": "dodging",
+      "name": "Dodging",
+      "icon": "modules/monks-little-details/icons/dodging.svg",
+      "referenceType": "compendium.item",
+      "compendium": "SharedData.spellFeats",
+      "referenceId": "@Compendium[SharedData.spellFeats.m51h3Ufjrcqm0Qmn]",
+      "applyTrigger": "",
+      "removeTrigger": "",
+      "activeEffect": {
+        "label": "Dodging",
+        "icon": "modules/monks-little-details/icons/dodging.svg",
+        "tint": "",
+        "disabled": false,
+        "duration": {
+          "seconds": null,
+          "startTime": null,
+          "rounds": null,
+          "turns": null,
+          "startRound": null,
+          "startTurn": null
+        },
+        "changes": [
+          {
+            "key": "flags.midi-qol.grants.disadvantage.attack.all",
+            "mode": 2,
+            "value": 1
+          },
+          {
+            "key": "flags.midi-qol.advantage.ability.save.dex",
+            "mode": 2,
+            "value": 1
+          }
+        ]
+      },
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "outputChat": true,
+        "markDefeated": false
+      },
+      "isNew": false,
+      "referenceTypeIcon": "fas fa-suitcase",
+      "isCompendiumReference": true,
+      "isItemCompendium": true,
+      "compendiumEntries": [
+        {
+          "id": "@Compendium[SharedData.spellFeats.0aRcWa6ShYJfoxvL]",
+          "collection": "SharedData.spellFeats",
+          "name": "Artificer Infusion: Enhanced Defense"
+        },
+        {
+          "id": "@Compendium[SharedData.spellFeats.RE9Ln7nQd3YboNcJ]",
+          "collection": "SharedData.spellFeats",
+          "name": "Bardic Inspiration"
+        },
+        {
+          "id": "@Compendium[SharedData.spellFeats.4FE6WBeC8Wy8w9HF]",
+          "collection": "SharedData.spellFeats",
+          "name": "Dodge"
+        },
+        {
+          "id": "@Compendium[SharedData.spellFeats.RSYIoT7fxDL8GnP4]",
+          "collection": "SharedData.spellFeats",
+          "name": "Eldritch Maul"
+        },
+        {
+          "id": "@Compendium[SharedData.spellFeats.oJTN0lWv0ihG6otr]",
+          "collection": "SharedData.spellFeats",
+          "name": "Integrated Protection"
+        },
+        {
+          "id": "@Compendium[SharedData.spellFeats.GM8HlzMmoRLK3SHG]",
+          "collection": "SharedData.spellFeats",
+          "name": "Magic Missile"
+        },
+        {
+          "id": "@Compendium[SharedData.spellFeats.wzjzB9JI0J2IPAc1]",
+          "collection": "SharedData.spellFeats",
+          "name": "Patient Defense"
+        },
+        {
+          "id": "@Compendium[SharedData.spellFeats.WBaeZbjnO2k6ix8J]",
+          "collection": "SharedData.spellFeats",
+          "name": "Purity of Body"
+        },
+        {
+          "id": "@Compendium[SharedData.spellFeats.oxhdeG9GLBuWFyPz]",
+          "collection": "SharedData.spellFeats",
+          "name": "Sleep"
+        },
+        {
+          "id": "@Compendium[SharedData.spellFeats.L5WVB8dZX9e98cdw]",
+          "collection": "SharedData.spellFeats",
+          "name": "Steel Defender"
+        },
+        {
+          "id": "@Compendium[SharedData.spellFeats.h52cLz8HdqpeRhrO]",
+          "collection": "SharedData.spellFeats",
+          "name": "Stunning Strike"
+        },
+        {
+          "id": "@Compendium[SharedData.spellFeats.QVj1HsYNKX8RU07y]",
+          "collection": "SharedData.spellFeats",
+          "name": "Toll the Dead"
+        }
+      ],
+      "isChanged": false
+    }
+  ]
+} "Ki: Quivering Palm"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.yrSFIGTaQOH2PFRI]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Ki: Step of the Wind"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.pvRc6GAu1ok6zihC]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Ki: Stunning Strike"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.3FB25qKxmkmxcxuC]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Land's Stride (Circle of the Land)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.C5fzaOBc6HxyOWRn]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Land's Stride (Ranger)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.OdrvL3afwLOPeuYZ]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Lay on Hands"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.aonJ2YjkqkYB9WYB]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Magical Secrets"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.ax8M0X0q1GGWM26j]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Martial Archetype"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.l50hjTxO2r0iecKw]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Martial Arts"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.9Uh7uTDNZ04oTJsL]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Metamagic"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.zElYrOcCFFMhB6Xl]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Metamagic: Careful Spell"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.DZpAa3LzMNBexbmX]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Metamagic: Distant Spell"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.IWpe0Y9uAStHGiH1]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Metamagic: Empowered Spell"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.tQxlKyAx9sgPrbgj]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Metamagic: Extended Spell"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.tNG2qi9zhmXEkecA]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Metamagic: Heightened Spell"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.nViGf6bZ6DQAJhkw]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Metamagic: Quickened Spell"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.fXa0DMhoVLtbBu9l]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Metamagic: Subtle Spell"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.Qb391hakCfmH4w8p]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Metamagic: Twinned Spell"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.0Jgf8fYY2ExwgQpN]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Mindless Rage"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.rtpQdX77dYWbDIOH]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Monastic Tradition"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.7zlTRRXT1vWSBGjX]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Multiattack"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.l7W6JB9yWLLLtQKP]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Multiattack: Volley"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.1DY8w3CXeD7PHDXF]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Multiattack: Whirlwind Attack"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.zB77V8BcCJvWVxck]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Mystic Arcanum (6th-Level Spell)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.HBn6FXLz7Eiudz0V]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Mystic Arcanum (7th-Level Spell)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.knDZR4l4QfLTKinm]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Mystic Arcanum (8th-Level Spell)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.vMxJQEKeK6WwZFaF]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Mystic Arcanum (9th-Level Spell)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.8fbZt2Qh7ZttwIan]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Natural Explorer"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.wKdRtFsvGfMKQHLY]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Natural Recovery"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.EuX1kJNIw1F68yus]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Nature's Sanctuary"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.OTvrJSJSUgAwXrWX]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Nature's Ward"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.iQxLNydNLlCHNKbp]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Open Hand Technique"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.jTXHaK0vvT5DV3uO]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Otherworldly Patron"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.VUtSLeCzFubGXmGx]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Overchannel"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.QwgfIpCN8VWfoUtX]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Pact Boon"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.x6IJZwr6f0SGral7]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Pact Magic"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.9dSSa68mIPoX2ezA]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Pact of the Blade"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.Ic1CSjvbWKudVUv9]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Pact of the Chain"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.MYM908WLZ1lVvA1u]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Pact of the Tome"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.pquwueEMweRhiWaq]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Peerless Skill"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.mQNPg89YIs7g5tG4]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Perfect Self"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.l8tUhZ5Pecm9wz7I]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Persistent Rage"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.evEWCpE5MYgr5RRW]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Potent Cantrip"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.jVU4AgqfrFaqgXns]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Primal Champion"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.TH1QAf6YNGSeBVjT]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Primal Path"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.kaHcUGiwi8AtfZIm]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Primeval Awareness"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.bqWA7t9pDELbNRkp]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Purity of Body"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.ZHJyYrqMYSLub4RY]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Purity of Spirit"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.VoR0SUrNX5EJVPIO]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Rage"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.1dJHU48yNqn3lcfx]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Ranger Archetype"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.SCVjqRdlZ9cvHVSR]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Reckless Attack"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.FqfmbPgxiyrWzhYk]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Relentless Rage"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.YN9xm6MCvse4Y60u]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Reliable Talent"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.dHu1yzIjD38BvGGd]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Remarkable Athlete"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.xzD9zlRP6dUxCtCl]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Retaliation"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.80USV8ZFPIahpLd0]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Roguish Archetype"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.olAqNsUTIef9x8xC]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Sacred Oath"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.6VBXkjjBgjSpNElh]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Sculpt Spells"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.nTjmWbyHweXuIqwc]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Second Wind"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.FGrbXs6Ku5qxFK5G]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Second-Story Work"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.nUrZDi6QN1YjwAr6]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Signature Spells (First Spell)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.31bKbWe9ZGVLEns6]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Signature Spells (Second Spell)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.V4pwFxlwHtNeB4w9]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Slippery Mind"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.KQz9bqxVkXjDl8gK]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Slow Fall"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.DPN2Gfk8yi1Z5wp7]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Sneak Attack"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.he8RpPXwSl2lVSIk]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Song of Rest"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.cmRCL9T9UgRYOj1c]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Sorcerous Origins"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.F2lEKSmOY0NUruzY]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Sorcerous Restoration"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.JfFfHTeIszx1hNRx]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Spell Mastery"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.u4NLajXETJhJU31v]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Spellcasting (Bard)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.v4gKwLhAq9vuqza7]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Spellcasting (Cleric)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.i6tPm3FNK13Ftc9v]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Spellcasting (Druid)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.ihoQHsmVZlyDbPhX]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Spellcasting (Paladin)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.u6xV3Ki3TXRrD7zg]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Spellcasting (Ranger)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.oygRF3ZjTv2T7z0Y]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Spellcasting (Sorcerer)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.gbNo5eVPaqr8IVKL]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Spellcasting (Wizard)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.ZmC31XKS4YNENnoc]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Stillness of Mind"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.rQhWDaMHMn7iU4f2]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Stroke of Luck"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.aVKH6TLn1AG9hPSA]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Superior Critical"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.a0Sq88dgnREcIMfl]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Superior Hunter's Defense"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.laVHAIOKIsUeezWd]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Superior Hunter's Defense: Evasion"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.Xf763cJoDHPPWSGG]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Superior Hunter's Defense: Stand Against the Tide"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.7pyZjz5vlUWV01qQ]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Superior Hunter's Defense: Uncanny Dodge"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.GBYN5rH4nh1ocRlY]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Superior Inspiration"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.4UOgxzr83vFuUash]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Supreme Healing"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.Ei1Oh4UAA2E30jcD]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Supreme Sneak"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.ipG5yx1tRNmeJfSH]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Survivor"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.LhRm1EeUMvp2EWhV]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Thief's Reflexes"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.ohwfuwnvuoBWlSQr]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Thieves' Cant"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.cVDEQo0ow1WJT7Wl]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Timeless Body (Druid)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.gDH8PMrKvLHaNmEI]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Timeless Body (Monk)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.XjuGBeB8Y0C3A5D4]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Tongue of the Sun and Moon"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.rBDZLatuoolT2FUW]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Tranquility"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.SZbsNbaxFFGwBpNK]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Unarmored Defense (Barbarian)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.UAvV7N7T4zJhxdfI]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Unarmored Defense (Monk)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.7vSrGc0MP5Vzm9Ac]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Unarmored Movement"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.zCeqyQ8uIPNdYJSW]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Unarmored Movement (Monk)"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.Mm64SKAHJWYecgXS]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Uncanny Dodge"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.NqWyHE7Rpw9lyKWu]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Use Magic Device"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.DhU2dWCNnX78TstR]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Vanish"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.Q7mOdk4b1lgjcptF]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Wholeness of Body"
+        },
+        {
+          "id": "@Compendium[dnd5e.classfeatures.swK0r5TOIxredxWS]",
+          "collection": "dnd5e.classfeatures",
+          "name": "Wild Shape"
+        }
+      ],
+      "isChanged": false
+    },
+    {
+      "id": "pd",
+      "name": "PD",
+      "icon": "systems/dnd5e/icons/skills/blue_18.jpg",
+      "referenceType": "compendium.item",
+      "compendium": "dnd5e.classfeatures",
+      "referenceId": "@Compendium[dnd5e.classfeatures.TDglPcxIVEzvVSgK]",
+      "applyTrigger": "",
+      "removeTrigger": "",
       "activeEffect": null,
       "options": {
         "overlay": false,
