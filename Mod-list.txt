@@ -61,8 +61,6 @@ mikwewa-free--v1.3.0;
 monks-little-details--v1.0.26;
 monks-tokenbar--v1.0.33;
 moonlight-maps-free--v1.1.0;
-multilevel-tokens--v1.3.4;
-Next-Up--v0.0.55;
 parallaxia--v0.2.13;
 perfect-vision--v1.7.3;
 pick-up-stix--v0.13.8;
